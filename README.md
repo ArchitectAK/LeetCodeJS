@@ -4,6 +4,7 @@
 |---|---|
 |[1. Two Sum](./Solutions/1%20-%20Two%20Sum.js)   | Easy   |
 |[2. Add Two Numbers](./Solutions/2.%20Add%20Two%20Numbers.js)   |Medium   |
+|[4. Median of Two Sorted Arrays](./Solutions/4%20-%20Median%20of%20Two%20Sorted%20Arrays.js)   |Hard   |
 |[5. Longest Palindromic Substring](./Solutions/5%20-%20Longest%20Palindromic%20Substring.js)   |Medium   |
 |[377. Combination Sum IV](./Solutions/377%20-%20Combination%20Sum%20IV.js)   |Medium   |
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378%20-%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
