@@ -13,6 +13,7 @@
 |[15. 3Sum](./Solutions/15.%203Sum.js)   |Medium   |
 |[16. 3Sum Closest](./Solutions/16.%203Sum%20Closest.js)   |Medium   |
 |[17. Letter Combinations of a Phone Number](./Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js)   |Medium   |
+|[18. 4Sum](./Solutions/18.%204Sum.js)   |Medium   |
 |[98. Validate Binary Search Tree](./Solutions/98.%20Validate%20Binary%20Search%20Tree.js)   |Medium   |
 |[108. Convert Sorted Array to Binary Search Tree](./Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)   |Easy   |
 |[377. Combination Sum IV](./Solutions/377.%20Combination%20Sum%20IV.js)   |Medium   |
