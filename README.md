@@ -11,6 +11,7 @@
 |[12. Integer to Roman](./Solutions/12%20-%20Integer%20to%20Roman.js)   |Medium   |
 |[13. Roman to Integer](./Solutions/13%20-%20Roman%20to%20Integer.js)   |Easy   |
 |[15. 3Sum](./Solutions/15%20-%203Sum.js)   |Medium   |
+|[98. Validate Binary Search Tree](./Solutions/15%20-%203Sum.js)   |Medium   |
 |[108. Convert Sorted Array to Binary Search Tree](./Solutions/108%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)   |Easy   |
 |[377. Combination Sum IV](./Solutions/377%20-%20Combination%20Sum%20IV.js)   |Medium   |
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378%20-%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
