@@ -6,6 +6,7 @@
 |[2. Add Two Numbers](./Solutions/2.%20Add%20Two%20Numbers.js)   |Medium   |
 |[4. Median of Two Sorted Arrays](./Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)   |Hard   |
 |[5. Longest Palindromic Substring](./Solutions/5.%20Longest%20Palindromic%20Substring.js)   |Medium   |
+|[7. Reverse Integer](./Solutions/7.%20Reverse%20Integer.js)   |Medium   |
 |[10. Regular Expression Matching](./Solutions/10.%20Regular%20Expression%20Matching.js)   |Hard   |
 |[11. Container With Most Water](./Solutions/11.%20Container%20With%20Most%20Water.js)   |Medium   |
 |[12. Integer to Roman](./Solutions/12.%20Integer%20to%20Roman.js)   |Medium   |
