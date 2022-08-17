@@ -22,6 +22,7 @@
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
 |[387. First Unique Character in a String](./Solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)   |Easy   |
 |[458. Poor Pigs](./Solutions/458.%20Poor%20Pigs.js)   |Hard   |
+|[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
 |[1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.js)   |Medium   |
 |[1647. Minimum Deletions to Make Character Frequencies Unique](./Solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.js)   |Medium   |
 |[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./Solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js)|Medium   |
