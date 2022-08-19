@@ -23,6 +23,7 @@
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
 |[387. First Unique Character in a String](./Solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)   |Easy   |
 |[458. Poor Pigs](./Solutions/458.%20Poor%20Pigs.js)   |Hard   |
+|[659. Split Array into Consecutive Subsequences](./Solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.js)   |Medium   |
 |[777. Swap Adjacent in LR String](./Solutions/777.%20Swap%20Adjacent%20in%20LR%20String.js)   |Medium   |
 |[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
 |[1338. Reduce Array Size to The Half](./Solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.js)   |Medium   |
