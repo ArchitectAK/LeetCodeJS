@@ -20,6 +20,7 @@
 |[22. Generate Parentheses](./Solutions/22.%20Generate%20Parentheses.js)   |Medium   |
 |[22. Generate Parentheses (With comments)](./Solutions/22.%20Generate%20Parentheses%20(With%20comments).js)   |Medium   |
 |[46. Permutations](./Solutions/46.%20Permutations.js)   |Medium   |
+|[79. Word Search](./Solutions/79.%20Word%20Search.js)   |Medium   |
 |[98. Validate Binary Search Tree](./Solutions/98.%20Validate%20Binary%20Search%20Tree.js)   |Medium   |
 |[108. Convert Sorted Array to Binary Search Tree](./Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)   |Easy   |
 |[235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)   |Easy   |
