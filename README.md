@@ -28,6 +28,7 @@
 |[300. Longest Increasing Subsequence](./Solutions/300.%20Longest%20Increasing%20Subsequence.js)   |Medium   |
 |[326. Power of Three](./Solutions/326.%20Power%20of%20Three.js)   |Easy   |
 |[342. Power of Four](./Solutions/342.%20Power%20of%20Four.js)   |Easy   |
+|[363. Max Sum of Rectangle No Larger Than K](./Solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.js)   |Hard   |
 |[377. Combination Sum IV](./Solutions/377.%20Combination%20Sum%20IV.js)   |Medium   |
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
 |[387. First Unique Character in a String](./Solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)   |Easy   |
