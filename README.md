@@ -37,6 +37,7 @@
 |[659. Split Array into Consecutive Subsequences](./Solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.js)   |Medium   |
 |[777. Swap Adjacent in LR String](./Solutions/777.%20Swap%20Adjacent%20in%20LR%20String.js)   |Medium   |
 |[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
+|[1329. Sort the Matrix Diagonally](./Solutions/1329.%20Sort%20the%20Matrix%20Diagonally.js)   |Medium   |
 |[1338. Reduce Array Size to The Half](./Solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.js)   |Medium   |
 |[1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.js)   |Medium   |
 |[1647. Minimum Deletions to Make Character Frequencies Unique](./Solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.js)   |Medium   |
