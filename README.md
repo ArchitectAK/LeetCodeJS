@@ -18,6 +18,7 @@
 |[16. 3Sum Closest](./Solutions/16.%203Sum%20Closest.js)   |Medium   |
 |[17. Letter Combinations of a Phone Number](./Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js)   |Medium   |
 |[18. 4Sum](./Solutions/18.%204Sum.js)   |Medium   |
+|[ 19. Remove Nth Node From End of List](./Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js)   |Medium   |
 |[20. Valid Parentheses](./Solutions/20.%20Valid%20Parentheses.js)   |Easy   |
 |[22. Generate Parentheses](./Solutions/22.%20Generate%20Parentheses.js)   |Medium   |
 |[22. Generate Parentheses (With comments)](./Solutions/22.%20Generate%20Parentheses%20(With%20comments).js)   |Medium   |
