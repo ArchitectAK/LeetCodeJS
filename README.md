@@ -21,6 +21,7 @@
 |[22. Generate Parentheses](./Solutions/22.%20Generate%20Parentheses.js)   |Medium   |
 |[22. Generate Parentheses (With comments)](./Solutions/22.%20Generate%20Parentheses%20(With%20comments).js)   |Medium   |
 |[46. Permutations](./Solutions/46.%20Permutations.js)   |Medium   |
+|[48. Rotate Image](./Solutions/48.%20Rotate%20Image.js)   |Medium   |
 |[50. Pow(x, n)](./Solutions/50.%20Pow(x%2C%20n).js)   |Medium   |
 |[79. Word Search](./Solutions/79.%20Word%20Search.js)   |Medium   |
 |[98. Validate Binary Search Tree](./Solutions/98.%20Validate%20Binary%20Search%20Tree.js)   |Medium   |
