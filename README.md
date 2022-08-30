@@ -7,6 +7,7 @@
 |[3. Longest Substring Without Repeating Characters](./Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)   |Medium   |
 |[4. Median of Two Sorted Arrays](./Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)   |Hard   |
 |[5. Longest Palindromic Substring](./Solutions/5.%20Longest%20Palindromic%20Substring.js)   |Medium   |
+|[6. Zigzag Conversion](./Solutions/6.%20Zigzag%20Conversion.js)   |Medium   |
 |[7. Reverse Integer](./Solutions/7.%20Reverse%20Integer.js)   |Medium   |
 |[8. String to Integer (atoi)](./Solutions/8.%20String%20to%20Integer%20(atoi).js)   |Medium   |
 |[10. Regular Expression Matching](./Solutions/10.%20Regular%20Expression%20Matching.js)   |Hard   |
