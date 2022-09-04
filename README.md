@@ -25,6 +25,7 @@
 |[23. Merge k Sorted Lists](./Solutions/23.%20Merge%20k%20Sorted%20Lists.js)   | Hard   |
 |[24. Swap Nodes in Pairs](./Solutions/24.%20Swap%20Nodes%20in%20Pairs.js)   | Medium   |
 |[25. Reverse Nodes in k-Group](./Solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)   | Hard   |
+|[26. Remove Duplicates from Sorted Array](./Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js | Easy|
 |[46. Permutations](./Solutions/46.%20Permutations.js)   |Medium   |
 |[48. Rotate Image](./Solutions/48.%20Rotate%20Image.js)   |Medium   |
 |[50. Pow(x, n)](./Solutions/50.%20Pow(x%2C%20n).js)   |Medium   |
