@@ -46,6 +46,7 @@
 |[659. Split Array into Consecutive Subsequences](./Solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.js)   |Medium   |
 |[777. Swap Adjacent in LR String](./Solutions/777.%20Swap%20Adjacent%20in%20LR%20String.js)   |Medium   |
 |[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
+|[814. Binary Tree Pruning](./Solutions/814.%20Binary%20Tree%20Pruning.jss)   |Medium   |
 |[987. Vertical Order Traversal of a Binary Tree](./Solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.js)   | Hard   |
 |[1329. Sort the Matrix Diagonally](./Solutions/1329.%20Sort%20the%20Matrix%20Diagonally.js)   |Medium   |
 |[1338. Reduce Array Size to The Half](./Solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.js)   |Medium   |
