@@ -30,6 +30,7 @@
 |[48. Rotate Image](./Solutions/48.%20Rotate%20Image.js)   |Medium   |
 |[50. Pow(x, n)](./Solutions/50.%20Pow(x%2C%20n).js)   |Medium   |
 |[79. Word Search](./Solutions/79.%20Word%20Search.js)   |Medium   |
+|[94. Binary Tree Inorder Traversal](./Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.js)   |Easy   |
 |[98. Validate Binary Search Tree](./Solutions/98.%20Validate%20Binary%20Search%20Tree.js)   |Medium   |
 |[108. Convert Sorted Array to Binary Search Tree](./Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)   |Easy   |
 |[235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)   |Easy   |
