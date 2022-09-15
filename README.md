@@ -30,6 +30,7 @@
 |[44. Wildcard Matching](./Solutions/44.%20Wildcard%20Matching.js)   |Hard   |
 |[46. Permutations](./Solutions/46.%20Permutations.js)   |Medium   |
 |[48. Rotate Image](./Solutions/48.%20Rotate%20Image.js)   |Medium   |
+|[49. Group Anagrams](./Solutions/49.%20Group%20Anagrams.js)   |Medium   |
 |[50. Pow(x, n)](./Solutions/50.%20Pow(x%2C%20n).js)   |Medium   |
 |[79. Word Search](./Solutions/79.%20Word%20Search.js)   |Medium   |
 |[94. Binary Tree Inorder Traversal](./Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.js)   |Easy   |
