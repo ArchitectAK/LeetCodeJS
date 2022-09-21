@@ -56,6 +56,7 @@
 |[777. Swap Adjacent in LR String](./Solutions/777.%20Swap%20Adjacent%20in%20LR%20String.js)   |Medium   |
 |[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
 |[814. Binary Tree Pruning](./Solutions/814.%20Binary%20Tree%20Pruning.js)   |Medium   |
+|[876. Middle of the Linked List](./Solutions/876.%20Middle%20of%20the%20Linked%20List.js)   | Easy   |
 |[985. Sum of Even Numbers After Queries](./Solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.js)   |Medium   |
 |[987. Vertical Order Traversal of a Binary Tree](./Solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.js)   | Hard   |
 |[1329. Sort the Matrix Diagonally](./Solutions/1329.%20Sort%20the%20Matrix%20Diagonally.js)   |Medium   |
