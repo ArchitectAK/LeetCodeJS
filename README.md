@@ -60,6 +60,7 @@
 |[987. Vertical Order Traversal of a Binary Tree](./Solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.js)   | Hard   |
 |[1329. Sort the Matrix Diagonally](./Solutions/1329.%20Sort%20the%20Matrix%20Diagonally.js)   |Medium   |
 |[1338. Reduce Array Size to The Half](./Solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.js)   |Medium   |
+|[1342. Number of Steps to Reduce a Number to Zero](./Solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)   |Easy   |
 |[1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./Solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.js)   |Medium   |
 |[1647. Minimum Deletions to Make Character Frequencies Unique](./Solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.js)   |Medium   |
 |[1672. Richest Customer Wealth](./Solutions/1672.%20Richest%20Customer%20Wealth.js)   |Easy   |
