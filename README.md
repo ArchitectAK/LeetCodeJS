@@ -45,6 +45,7 @@
 |[336. Palindrome Pairs (brute force)](./Solutions/336.%20Palindrome%20Pairs.js)   |Hard   |
 |[336. Palindrome Pairs (Map Solution)](./Solutions/336.%20Palindrome%20Pairs%20-%20mqp.js)   |Hard   |
 |[342. Power of Four](./Solutions/342.%20Power%20of%20Four.js)   |Easy   |
+|[350. Intersection of Two Arrays II](./Solutions/350.%20Intersection%20of%20Two%20Arrays%20II.js)   |Easy   |
 |[363. Max Sum of Rectangle No Larger Than K](./Solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.js)   |Hard   |
 |[377. Combination Sum IV](./Solutions/377.%20Combination%20Sum%20IV.js)   |Medium   |
 |[378. Kth Smallest Element in a Sorted Matrix](./Solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)   |Medium   |
