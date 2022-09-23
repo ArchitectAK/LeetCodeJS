@@ -62,6 +62,7 @@
 |[804. Unique Morse Code Words](./Solutions/804.%20Unique%20Morse%20Code%20Words.js)   |Easy   |
 |[814. Binary Tree Pruning](./Solutions/814.%20Binary%20Tree%20Pruning.js)   |Medium   |
 |[876. Middle of the Linked List](./Solutions/876.%20Middle%20of%20the%20Linked%20List.js)   | Easy   |
+|[904. Fruit Into Baskets](./Solutions/904.%20Fruit%20Into%20Baskets.js)   | Medium   |
 |[929. Unique Email Addresses](./Solutions/929.%20Unique%20Email%20Addresses.js)   | Easy   |
 |[985. Sum of Even Numbers After Queries](./Solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.js)   |Medium   |
 |[987. Vertical Order Traversal of a Binary Tree](./Solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.js)   | Hard   |
