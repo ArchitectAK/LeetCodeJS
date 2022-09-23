@@ -70,5 +70,6 @@
 |[1647. Minimum Deletions to Make Character Frequencies Unique](./Solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.js)   |Medium   |
 |[1672. Richest Customer Wealth](./Solutions/1672.%20Richest%20Customer%20Wealth.js)   |Easy   |
 |[1680. Concatenation of Consecutive Binary Numbers](./Solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.js)   |Medium   |
+|[1680. Concatenation of Consecutive Binary Numbers - with Shift Operator](./Solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers%20-%20shift%20operator.js)   |Medium   |
 |[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./Solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.js)|Medium   |
 |[2007. Find Original Array From Doubled Array](./Solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.js)|Medium   |
