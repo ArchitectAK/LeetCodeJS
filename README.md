@@ -4,7 +4,7 @@
 |---|---|
 |[1. Two Sum](./Solutions/1.%20Two%20Sum.js)   | Easy   |
 |[2. Add Two Numbers](./Solutions/2.%20Add%20Two%20Numbers.js)   |Medium   |
-|[3. Longest Substring Without Repeating Characters](./Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)   |Medium   |
+|[3. Longest Substring Without Repeating Characters (Array Reduce solution)](./Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters%20-%20array%20reduce.js)   |Medium   |
 |[4. Median of Two Sorted Arrays](./Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)   |Hard   |
 |[5. Longest Palindromic Substring](./Solutions/5.%20Longest%20Palindromic%20Substring.js)   |Medium   |
 |[6. Zigzag Conversion](./Solutions/6.%20Zigzag%20Conversion.js)   |Medium   |
