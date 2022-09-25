@@ -58,7 +58,8 @@
 |[417. Pacific Atlantic Water Flow](./Solutions/417.%20Pacific%20Atlantic%20Water%20Flow.js)|Medium   |
 |[458. Poor Pigs](./Solutions/458.%20Poor%20Pigs.js)   |Hard   |
 |[482. License Key Formatting](./Solutions/482.%20License%20Key%20Formatting.js)   | Easy  |
-|[557. Reverse Words in a String III](./Solutions/557.%20Reverse%20Words%20in%20a%20String%20III.js)   |Easy   |
+|[557. Reverse Words in a String III](./Solutions/557.%20Reverse%20Words%20in%20a%20String%20III.js)   | Easy   |
+|[622. Design Circular Queue](./Solutions/622.%20Design%20Circular%20Queue.js)   | Medium   |
 |[637. Average of Levels in Binary Tree](./Solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js)   |Easy   |
 |[659. Split Array into Consecutive Subsequences](./Solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.js)   |Medium   |
 |[777. Swap Adjacent in LR String](./Solutions/777.%20Swap%20Adjacent%20in%20LR%20String.js)   |Medium   |
