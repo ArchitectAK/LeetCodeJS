@@ -35,6 +35,7 @@
 |[49. Group Anagrams](./Solutions/49.%20Group%20Anagrams.js)   |Medium   |
 |[50. Pow(x, n)](./Solutions/50.%20Pow(x%2C%20n).js)   |Medium   |
 |[54. Spiral Matrix](./Solutions/54.%20Spiral%20Matrix.js)   |Medium   |
+|[55. Jump Game](./Solutions/55.%20Jump%20Game.js)   |Medium   |
 |[79. Word Search](./Solutions/79.%20Word%20Search.js)   |Medium   |
 |[94. Binary Tree Inorder Traversal](./Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.js)   |Easy   |
 |[98. Validate Binary Search Tree](./Solutions/98.%20Validate%20Binary%20Search%20Tree.js)   |Medium   |
