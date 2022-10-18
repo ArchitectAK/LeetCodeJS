@@ -28,6 +28,7 @@
 |[25. Reverse Nodes in k-Group](./Solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)   | Hard   |
 |[26. Remove Duplicates from Sorted Array](./Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) | Easy|
 |[31. Next Permutation](./Solutions/31.%20Next%20Permutation.js) | Medium |
+|[38. Count and Say](./Solutions/38.%20Count%20and%20Say.js) | Medium |
 |[42. Trapping Rain Water (2 Pointer solution)](./Solutions/42.%20Trapping%20Rain%20Water%20-%202pointer%20solution.js)   |Hard   |
 |[44. Wildcard Matching](./Solutions/44.%20Wildcard%20Matching.js)   |Hard   |
 |[46. Permutations](./Solutions/46.%20Permutations.js)   |Medium   |
