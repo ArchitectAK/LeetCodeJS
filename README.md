@@ -44,6 +44,7 @@
 |[99. Recover Binary Search Tree](./Solutions/99.%20Recover%20Binary%20Search%20Tree.js)   |Medium   |
 |[108. Conert Sorted Array to Binary Search Tree](./Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)   |Easy   |
 |[113. Path Sum II](./Solutions/113.%20Path%20Sum%20II.js)   | Medium   |
+|[158. Read N Characters Given read4 II - Call Multiple Times](./Solutions/158.%20Read%20N%20Characters%20Given%20read4%20II%20-%20Call%20Multiple%20Times.js)   | Hard   |
 |[200. Number of Islands (DFS solution)](./Solutions/200.%20Number%20of%20Islands%20-%20dfs.js)| Medium   |
 |[218. The Skyline Problem](./Solutions/218.%20The%20Skyline%20Problem.js)| Hard   |
 |[226. Invert Binary Tree](./Solutions/226.%20Invert%20Binary%20Tree.js)| Easy   |
