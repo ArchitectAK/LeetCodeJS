@@ -47,6 +47,7 @@
 |[158. Read N Characters Given read4 II - Call Multiple Times](./Solutions/158.%20Read%20N%20Characters%20Given%20read4%20II%20-%20Call%20Multiple%20Times.js)   | Hard   |
 |[200. Number of Islands (DFS solution)](./Solutions/200.%20Number%20of%20Islands%20-%20dfs.js)| Medium   |
 |[218. The Skyline Problem](./Solutions/218.%20The%20Skyline%20Problem.js)| Hard   |
+|[219. Contains Duplicate II](./Solutions/219.%20Contains%20Duplicate%20II.js)| Easy   |
 |[226. Invert Binary Tree](./Solutions/226.%20Invert%20Binary%20Tree.js)| Easy   |
 |[235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)   |Easy   |
 |[300. Longest Increasing Subsequence](./Solutions/300.%20Longest%20Increasing%20Subsequence.js)   |Medium   |
